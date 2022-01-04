@@ -1,2 +1,2 @@
 # downorg
-a script to organize your bloated download folder
+a pyhthon script to organize your bloated download folder
